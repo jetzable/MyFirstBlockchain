@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain Project",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest test"
+  },
+  "keywords": [
+    "blockchain",
+    "npm"
+  ],
+  "author": "Palmidia Garay",
+  "license": "ISC"
+}
